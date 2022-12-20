@@ -1,0 +1,46 @@
+
+.App {
+  background-color: white;
+  min-height: 100vh;
+  padding-bottom: 100px;
+}
+
+body {
+  overflow-x: hidden;
+}
+.text-to-right {
+  direction: rtl;
+  text-align: right;
+}
+
+.navbar-brand.brand {
+  color: rgb(65, 138, 65);
+  padding: 6;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 2.5 rem;
+  font-weight: 700;
+}
+
+.navbar-nav.nav-link.link {
+  color: rgb(228, 211, 138) !important;
+}
+
+.navItem {
+  color: white !important;
+}
+
+.nav-link {
+  padding: 0;
+  font-size: 1.0rem;
+  font-family:sans-serif;
+  color: rgb(117, 116, 116);
+}
+
+.main-container {
+  margin-top: 20px;
+}
+
+img.snapjobLogo {
+  height: 50px;
+  padding-right: 5px;
+}
